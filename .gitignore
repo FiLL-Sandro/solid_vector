@@ -1,0 +1,5 @@
+*.o
+*.exec
+/testing
+*.xcf
+*.pro*
