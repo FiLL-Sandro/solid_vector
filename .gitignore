@@ -3,3 +3,9 @@
 /testing
 *.xcf
 *.pro*
+/*.includes
+/*.files
+/*.cxxflags
+/*.creator*
+/*.config
+/*.cflags
